@@ -1,2 +1,3 @@
 # hello-world
-Trying to figure out what I'm doing
+
+I am very new to this but hopefully I can learn fast.
